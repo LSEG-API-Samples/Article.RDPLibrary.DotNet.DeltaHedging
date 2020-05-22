@@ -15,14 +15,14 @@
 ## <a id="overview"></a>Overview
 In this example, I will present different workflows used to manage risk, specifically focusing on the most widely used Greek (Delta), as a tool to hedge common strategies.
 
-Details and concepts are further explained in the [Delta Hedging - Simplify your Option Pricing]() article published on the [Refinitiv Developer Community portal](https://developers.refinitiv.com).
+Details and concepts are further explained in the [Delta Hedging - Simplify your Option Pricing](https://developers.refinitiv.com/article/delta-hedging-simplify-your-option-pricing) article published on the [Refinitiv Developer Community portal](https://developers.refinitiv.com).
 
 ## <a id="disclaimer"></a>Disclaimer
 The source code presented in this project has been written by Refinitiv only for the purpose of illustrating the concepts of creating the "what-if" scenarios using the Refinitiv Data Platform Library for .NET.  It has not been tested for usage in production environments. 
 
 ***Note 1:** The Refinitiv Data Platform Library for .NET is a community-based API and managed as an open source project.*
 
-***Note 2:** To be able to [ask questions](https://community.developers.refinitiv.com/index.html) and to benefit from the full content available, I recommend you to register on the [Refinitiv Developer Community](https://developers.refinitiv.com)*
+***Note 2:** To [ask questions](https://community.developers.refinitiv.com/index.html) and benefit from the learning material, I recommend you to register on the [Refinitiv Developer Community](https://developers.refinitiv.com)*
 
 ## <a name="prerequisites"></a>Prerequisites
 
